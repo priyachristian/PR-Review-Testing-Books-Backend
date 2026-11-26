@@ -1,0 +1,58 @@
+<h1>You've Been Invited</h1>
+
+<p style="font-size: 16px; color: #374151; margin-bottom: 20px;">
+    Hello <strong><%= userName || 'there' %></strong>,
+</p>
+
+<p style="font-size: 16px; color: #374151; margin-bottom: 20px;">
+    Great news! <strong><%= invitedBy %></strong> has invited you to join their team on ABSS.
+</p>
+
+<% if (organizationName) { %>
+<div class="success-box">
+    <p style="font-size: 15px; color: #166534; margin: 0;">
+        <strong>📋 Organization:</strong> <%= organizationName %>
+    </p>
+    <% if (role) { %>
+    <p style="font-size: 15px; color: #166534; margin: 10px 0 0 0;">
+        <strong>👤 Role:</strong> <%= role %>
+    </p>
+    <% } %>
+</div>
+<% } %>
+
+<p style="font-size: 16px; color: #374151; margin-top: 30px; margin-bottom: 30px;">
+    To accept this invitation and set up your account, click the button below:
+</p>
+
+<div style="text-align: center; margin: 40px 0;">
+    <a href="<%= inviteLink %>" class="button">Accept Invitation</a>
+</div>
+
+<p style="font-size: 14px; color: #6c757d; text-align: center; margin-bottom: 30px;">
+    This invitation will expire in <strong><%= expiryDays || '7' %> days</strong>
+</p>
+
+<div class="divider"></div>
+
+<p style="font-size: 15px; color: #374151; margin-bottom: 15px;">
+    <strong>Button not working?</strong> Copy and paste the following link into your browser:
+</p>
+
+<div class="link-box">
+    <a href="<%= inviteLink %>" style="color: #111827; font-weight: 500;"><%= inviteLink %></a>
+</div>
+
+<div class="info-box">
+    <p style="font-size: 14px; color: #374151; margin: 0;">
+        <strong>ℹ️ Note:</strong> You'll need to create a password and complete your profile setup after accepting the invitation.
+    </p>
+</div>
+
+<div class="divider"></div>
+
+<p style="font-size: 14px; color: #6b7280;">
+    If you don't want to accept this invitation or think you received this email by mistake, you can safely ignore it. 
+    No account will be created for you unless you click the acceptance link.
+</p>
+

@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Code coverage
+coverage
+
+.npmrc
+
+.vscode
+
+# Local dummy auth route
+routes/dummyLogin.route.js
+
+#New relic agent
+newrelic_agent.log
+
+# Local app logs
+logs/
+.claude/
+CLAUDE.md
+.DS_Store

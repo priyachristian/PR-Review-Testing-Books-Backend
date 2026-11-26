@@ -1,0 +1,90 @@
+name: ABSS-Book-Main
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify push is by an authorized release manager
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const AUTHORIZED_MERGERS = [
+              'smit9313',
+            ];
+
+            const actor = context.actor.toLowerCase();
+            const authorized = AUTHORIZED_MERGERS.map(u => u.toLowerCase()).includes(actor);
+
+            if (authorized) {
+              core.info(`Authorized release by @${context.actor} ✅`);
+              return;
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⛔ Production deploy blocked: unauthorized push to main by @${context.actor}`,
+              body:
+                `Commit \`${context.sha}\` was pushed/merged to \`main\` by @${context.actor}, ` +
+                `who is not an authorized release manager, so the production deploy was blocked.\n\n` +
+                `Authorized: ${AUTHORIZED_MERGERS.join(', ')}.\n\n` +
+                `Please review and revert this commit if the merge was not intended.`,
+            });
+
+            core.setFailed(`@${context.actor} is not authorized to deploy main. Deploy blocked.`);
+
+  deploy:
+    needs: guard
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.API_SERVER_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.API_SERVER_URL }} >> ~/.ssh/known_hosts
+
+      - name: Deploy to EC2
+        env:
+          EC2_USER: ${{ secrets.API_SERVER_USER }}
+          EC2_HOST: ${{ secrets.API_SERVER_URL }}
+          EC2_KEY: ${{ secrets.API_SERVER_KEY }}
+          NODE_VERSION: ${{ secrets.NODE_VERSION }}
+          EC2_PROJECT_PATH: "/home/ubuntu/abss-books-backend"
+        run: |
+          ssh $EC2_USER@$EC2_HOST "
+          export NVM_DIR=\"/home/$EC2_USER/.nvm\"
+          export NODE_ENV=production
+          [ -s \"\$NVM_DIR/nvm.sh\" ] && \. \"\$NVM_DIR/nvm.sh\"
+          nvm use $NODE_VERSION
+          export PATH=\$PATH:/$EC2_USER/.nvm/versions/node/$NODE_VERSION/bin
+
+          cd $EC2_PROJECT_PATH
+          git restore .
+          git switch main
+          git pull origin main
+
+          # ci is faster and deterministic (uses package-lock.json exactly)
+          npm i
+
+          # Rolling reload: new workers come up before old ones are killed.
+          # Falls back to a fresh start if PM2 has never run this app before.
+          if pm2 describe abss-books-api > /dev/null 2>&1; then
+            pm2 reload ecosystem.config.js --env production --update-env
+          else
+            pm2 start ecosystem.config.js --env production
+            pm2 save
+          fi
+
+          pm2 list
+          "

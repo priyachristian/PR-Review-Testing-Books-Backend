@@ -1,0 +1,1403 @@
+{
+  "summary": {
+    "totalItems": 198,
+    "totalCompaniesAffected": 4,
+    "generatedAt": "2025-12-05T09:50:45.131Z"
+  },
+  "itemsByCompany": {
+    "67820d444d677e00038d732d": [
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d30",
+        "itemName": "SABIC PC NATURAL 220-R",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d07",
+        "itemName": "RM-100W FREEDOM SERIES HOUSING SIZE:274MM*200MM*39MM-488GM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d08",
+        "itemName": "RM-200W FREEDOM SERIES HOUSINGSIZE:340MM*250MM*44MM-878GM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d16",
+        "itemName": "RM-PIDITHREM COMPOUND 4010(FOR PCB)(1 tc)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d2f",
+        "itemName": "SABIC PC NATURAL 1803-R",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d34",
+        "itemName": "RM-2.5MM BOPP TAP",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d37",
+        "itemName": "ALUMINUM ALLOY INGOT ADC 12",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d06",
+        "itemName": "RM-50W FREEDOM SERIES HOUSING SIZE:200MM*158MM*39MM-292GM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d17",
+        "itemName": "RM-PIDITHREM THERMAL ADHESIVE AD 4050(FOR GLAND AND GRUMENT)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68344402545d726c9dc87d31",
+        "itemName": "MITSUBISHI PC NATURAL S-000/UR-5355",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836d43681a65ac3a633724b",
+        "itemName": "SF- FREEDOM SERIES 50W HOUSING KIT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836d46881a65ac3a6337270",
+        "itemName": "SF- FREEDOM SERIES 100W  HOUSING KIT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836d4b0aba75385d1854b75",
+        "itemName": "SF- FREEDOM SERIES 150W-200W HOUSING KIT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836db1c81a65ac3a6337558",
+        "itemName": "RM-50W FREEDOM SERIES HOUSING (ONLY)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836dbbeaba75385d1854f1c",
+        "itemName": "RM-100W FREEDOM SERIES HOUSING (ONLY)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836dc78aba75385d1854f48",
+        "itemName": "RM-200W FREEDOM SERIES HOUSING (ONLY)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836dfe4aba75385d185514d",
+        "itemName": "RM-105MM X 300MTR - KE555 - TTR",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836e46681a65ac3a6337970",
+        "itemName": "RM-50W PCB-OLS-1869 (83*163mm) 1mm-25um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836e4b3aba75385d185532b",
+        "itemName": "RM-100W PCB-OLS-1867 (234*113mm)  1mm-25um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836e5d181a65ac3a6337ab9",
+        "itemName": "RM-200W PCB-OLS-1870 (134*298mm)1.5mm-35um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836e82c81a65ac3a6337d77",
+        "itemName": "RM-RTV SILICONE 2600ML BOTTEL (MT-1301)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836eca3aba75385d18556b8",
+        "itemName": "FA-WALL MOUNTING CHANNEL",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836ecddaba75385d18556d9",
+        "itemName": "FA-F.P.O BIN35 300X210X160 MM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836f30081a65ac3a6338409",
+        "itemName": "FA-Pneumatic Gun 300 ML 1K Juboo",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836f54981a65ac3a6338688",
+        "itemName": "SSF-FREEDOM SERIES 50W CW LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836f57781a65ac3a63386be",
+        "itemName": "SSF- FREEDOM SERIES 50W WW LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836f59981a65ac3a63386da",
+        "itemName": "SSF- FREEDOM SERIES 100W CW LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836f5b6aba75385d1855ff8",
+        "itemName": "SSF- FREEDOM SERIES 100W WW LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836f5dcaba75385d185602a",
+        "itemName": "SSF- FREEDOM SERIES 200W CW LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6836f5f9aba75385d185607e",
+        "itemName": "SSF- FREEDOM SERIES 200W WW LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837017181a65ac3a6338d56",
+        "itemName": "FA-RUBBER SHEET 3MM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837029d81a65ac3a6338dfb",
+        "itemName": "RM-THARMAL GREASE MT-3202 [2TC]",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837dcaf0bdd2ab7af997966",
+        "itemName": "ESD PU Finger Coated Gloves",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837ddcaeba82803f3ac48c0",
+        "itemName": "PRIMER MR 211 / MH 311",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837ddf9eba82803f3ac48e0",
+        "itemName": "SCREED MR-212 / MH-312",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837de250bdd2ab7af997a56",
+        "itemName": "MR.355 EPOXY RESIN",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837de56eba82803f3ac4990",
+        "itemName": "MH-260 CLEAR GROUT HARDENER",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837dec20bdd2ab7af997ac2",
+        "itemName": "MF-200 SEND",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837e208eba82803f3ac4dbf",
+        "itemName": "MAHI TOP COAT MR-213 / MH-313",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837e23f0bdd2ab7af997d21",
+        "itemName": "MP-5040 GREY EPOXY PEST",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837e49deba82803f3ac50f7",
+        "itemName": "TRAFFIC GREY METALLIC FT PP (596470)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837eba7eba82803f3ac563c",
+        "itemName": "SPARE PART OF LIGHTING FIXTURE AND FITTING - REFLEC",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837ec910bdd2ab7af9987fe",
+        "itemName": "RM-COLOUR PKTS PC MAROON 150225",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6837efb2eba82803f3ac5c8b",
+        "itemName": "RM-PC BLACK MB (FOR DEEPDOWN CAP)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "684bf310b48f5744a965ce27",
+        "itemName": "PCB SETUP CHARGES",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "684d40e3484da6ed80a6e0fd",
+        "itemName": "SF- FREEDOM SERIES 150W HOUSING KIT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "684d41a2484da6ed80a6e2e3",
+        "itemName": "SSF- FREEDOM SERIES 150W CW LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "684d4287d29c40846331ec8e",
+        "itemName": "RM-3 CORE 300mm BLACK WIRE",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "684d431bd29c40846331ed5a",
+        "itemName": "SSF- FREEDOM SERIES 150W WW LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "684facf2484da6ed80a7617b",
+        "itemName": "PACKING CHARGES",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "685294b357bf821974d60049",
+        "itemName": "SSF-50W NW OUR NEW FREEDOM SERIES FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "685295009ae378dc3cafa139",
+        "itemName": "SSF-100W NW OUR NEW FREEDOM SERIES FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6852953a9ae378dc3cafa1ae",
+        "itemName": "SSF-200W NW OUR NEW FREEDOM SERIES FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6852969357bf821974d60395",
+        "itemName": "SSF-200W GREEN OUR NEW FREEDOM SERIES FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68564b41d1bea27bc6c3c68d",
+        "itemName": "LED STENCIL",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6867b102b9f5d86a495a4836",
+        "itemName": "Anil Tiwari",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6867cd5fb9f5d86a495a7598",
+        "itemName": "218 VICTO BAKROL OFFICE EXP",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6867d2aeb9f5d86a495a8718",
+        "itemName": "ASHISH SONAKI",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "686e01ce658e737202bd2d41",
+        "itemName": "SSF-12w ACE SERIES DOWN LIGHT HOUSING (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "686e02014e7be7d69cd68062",
+        "itemName": "SSF-18w ACE SERIES DOWN LIGHT HOUSING (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "686e0287658e737202bd2e3e",
+        "itemName": "SSF-24w ACE SERIES DOWN LIGHT HOUSING (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "686e02ca658e737202bd2ecc",
+        "itemName": "SSF-12w ACE SERIES DOWN LIGHT HOUSING (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "686e02fe4e7be7d69cd68230",
+        "itemName": "SSF-18w ACE SERIES DOWN LIGHT HOUSING (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "686e035c4e7be7d69cd682e8",
+        "itemName": "SSF-24w ACE SERIES DOWN LIGHT HOUSING (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "687b2dc86f7831ed5b2eca53",
+        "itemName": "RM-DRIVER 8-12W 300mA CCT ISOLATED LOW PF",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "687b2deb1a7e619e615889ec",
+        "itemName": "RM-DRIVER 13-18W 300mA CCT  ISOLATED LOW PF",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "687b2e081a7e619e61588abf",
+        "itemName": "RM-DRIVER 18-24W 300mA CCT  ISOLATED LOW PF",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "687de02f3cabe48f27f0bd51",
+        "itemName": "RM-100W 900mA RGB IP-65 ISOLATED DRIVER WITH REMOTE",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "687f2beeb20ae936b9d2edcf",
+        "itemName": "SF-OLS-2518 50W RGB 1MM 25uM SIZE: 163MM*81.5MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "687f2c45b20ae936b9d2eeb2",
+        "itemName": "SF-OLS-2524 100W RGB 1MM 25uM SIZE: 113MM*234MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68847ee198ce0caff68385b1",
+        "itemName": "SF-12w ACE SERIES DOWN LIGHT HOUSING (WIHTOUT COATING)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68847f2607ed7c1f12072ef2",
+        "itemName": "SSF-18w ACE SERIES DOWN LIGHT HOUSING (WITHOUT COATING)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68847f5b98ce0caff6838727",
+        "itemName": "SSF-24w ACE SERIES DOWN LIGHT HOUSING (WITHOUT COATING)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884801b07ed7c1f120730c1",
+        "itemName": "SSSF-12W CW ACE SERIES  DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "688480b607ed7c1f12073287",
+        "itemName": "SSSF-12w CW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "688480e807ed7c1f12073381",
+        "itemName": "SSSF-18w CW ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884811807ed7c1f12073475",
+        "itemName": "SSSF-18w CW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884815e98ce0caff68389fc",
+        "itemName": "SSSF-24w CW ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884817d98ce0caff6838ae5",
+        "itemName": "SSSF-24w CW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68849cfb07ed7c1f12077890",
+        "itemName": "RM-2PIN CONNECTOR (MALE-FEMALE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68849fce07ed7c1f12078222",
+        "itemName": "RM-3 CORE BLACK AC WIRE ( 3 IN 1 )",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884ad9307ed7c1f1207abe9",
+        "itemName": "SSSF-12W WW ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884ae1607ed7c1f1207afa0",
+        "itemName": "SSSF-18w WW ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884ae5d98ce0caff683ff7f",
+        "itemName": "SSSF-24w WW ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884aeb998ce0caff684006e",
+        "itemName": "SSSF-12w WW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884aefd07ed7c1f1207b184",
+        "itemName": "SSSF-18w WW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884af4d07ed7c1f1207b2cb",
+        "itemName": "SSSF-24w WW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884b0ae07ed7c1f1207ba0d",
+        "itemName": "SSSF-12W NW ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884b0f907ed7c1f1207bb09",
+        "itemName": "SSSF-18w NW ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884b13507ed7c1f1207bc96",
+        "itemName": "SSSF-24w NW ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6884c4b207ed7c1f1207ff7f",
+        "itemName": "RM-ACE SPRING SMALL",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "688daf28a49032167ecfcffd",
+        "itemName": "SF-OLS-1867 100W GREEN 1MM 25uM SIZE: 234MM*113MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "688db04da49032167ecfd3da",
+        "itemName": "SSF- FREEDOM SERIES 100W GREEN LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "689059b19eee1d8963879366",
+        "itemName": "SF-OLS-1869 50W GREEN 1MM 25uM SIZE: 163MM*81.5MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6891ed2df536e26b65ecdccc",
+        "itemName": "SSSF-12W NW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6891ed9471a3640a0b3ee843",
+        "itemName": "SSSF-18W NW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6891ede0f536e26b65ecf871",
+        "itemName": "SSSF-24W NW ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6892d809f133ad582f6aab9b",
+        "itemName": "SSSF-12W 5K ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6892d873f133ad582f6aad0f",
+        "itemName": "SSSF-12W 5K ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6892d8a9c2fa9b7d9489353a",
+        "itemName": "SSSF-18W 5K ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6892d8dff133ad582f6aaf1b",
+        "itemName": "SSSF-18W 5K ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6892d926c2fa9b7d94893729",
+        "itemName": "SSSF-24W 5K ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6892d954f133ad582f6ab08d",
+        "itemName": "SSSF-24W 5K ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "689595222600b905f198bbc8",
+        "itemName": "SF-ACE PCB-OLS-1983 12W CW+WW PCB 1mm 18um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "689595a4b835b43cc5967bca",
+        "itemName": "SF-ACE PCB-OLS-3101 18W CW=WW PCB 1mm 18um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6895961db835b43cc5968d56",
+        "itemName": "SF-ACE PCB-OLS-19979 24W CW+WW PCB 1mm 18um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6895cf897fecd15a23f6a849",
+        "itemName": "SF-ACE PCB-OLS-1979 24W CW+WW PCB 1mm 18um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a41f490bd44851a78999c2",
+        "itemName": "SSSF-12W C+W+N ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a41f950bd44851a7899abe",
+        "itemName": "SSSF-12W C+W+N ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a41ff90bd44851a7899b91",
+        "itemName": "SSSF-18W C+W+N ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a4202c0bd44851a7899bd1",
+        "itemName": "SSSF-18W C+W+N ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a420751599888a56c6a4fe",
+        "itemName": "SSSF-24W C+W+N ACE SERIES DOWN LIGHT KIT (WHITE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a420af0bd44851a7899d62",
+        "itemName": "SSSF-24W C+W+N ACE SERIES DOWN LIGHT KIT (BLACK)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a4445a1599888a56c77b61",
+        "itemName": "RM-DRIVER 13-18W 300mA CCT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a6ca83a348d908540f29ea",
+        "itemName": "RM-RTV SILICONE 2600ML BOTTEL (MT-555)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68a6ef87dd7ae5ba6df5672d",
+        "itemName": "RM-3 CORE 400mm BLACK WIRE",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68afe264dffaa4df64b9d485",
+        "itemName": "RM-36W-900MA-ISOLATED LED DRIVER",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68afe6a55002767f0162fd0d",
+        "itemName": "INSERTS (A8 58 GSM PAPER)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68afedb10047d1808147ea52",
+        "itemName": "CATALOGUE (12 PAGE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68afedd25002767f01630583",
+        "itemName": "CATALOGUE (28 PAGE)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68afee880047d1808147f064",
+        "itemName": "ID CARD",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68afeee45002767f01630b75",
+        "itemName": "VISITING CARD",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b19c2621a7e1fc2b7f5843",
+        "itemName": "RM-24W-300MA NON-ISOLATED IP-65 LED DRIVER",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b280b56e461a8285805ed4",
+        "itemName": "RM-DRIVER 8-24W 300mA NON-ISOLATED HPF",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b2a7f7fc780fb48e667e8b",
+        "itemName": "MULTICORE&SINGLE-CORE WIRES",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b2c223a5a058a1b2aa0d23",
+        "itemName": "2835-1 W 6500K LED",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b951e2d8395477e5c97cf7",
+        "itemName": "MOLD ( FOR MAKING PANEL FITTING )",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b952d0d8395477e5c97f7d",
+        "itemName": "DIODE CHIPS",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b984a59e824141b4124661",
+        "itemName": "SF-MOSCO-PCB-OLS-0695 AND 1.6MM 35UM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b984d79e824141b412473a",
+        "itemName": "SF-MOSCO-PCB-OLS-1843 AND 1.6MM 35UM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b984f39e824141b4124821",
+        "itemName": "SF-MOSCO-PCB-OLS-0697 AND 1.6MM 18UM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68b98512d8395477e5c9fb77",
+        "itemName": "SF-MOSCO-PCB-OLS-0903 AND 2.0MM 35UM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68c5498dfcb2cccfe9902a56",
+        "itemName": "SSF-FREEDOM SERIES 200W RED LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68c549dcfcb2cccfe9902a95",
+        "itemName": "SSF-FREEDOM SERIES 200W BLUE LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68c54a47fcb2cccfe9902c41",
+        "itemName": "SF-OLS-1870 200W RED 1.5MM 35uM SIZE: 298MM*134MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68c54ac2fcb2cccfe9902fe4",
+        "itemName": "SF-OLS-1870 200W BLUE 1.5MM 35uM SIZE: 298MM*134MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68c79f7e7e5e843647228860",
+        "itemName": "SF-METAL DOWN LIGHT  PCB-OLS-0993 12W CW PCB 1mm 18um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68c79fbffcb2cccfe9913ba9",
+        "itemName": "SF-METAL DOWN LIGHT  PCB-OLS-0999 18W CW PCB 1mm 18um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68c79ffafcb2cccfe99140dd",
+        "itemName": "SF-METAL DOWN LIGHT  PCB-OLS-0999 18W NW PCB 1mm 18um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68ca37909b02f73f4adbea28",
+        "itemName": "SF-METAL DOWN LIGHT  PCB-OLS-0993 12W NW PCB 1mm 18um",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68cbc918e60a8089e5829190",
+        "itemName": "RM-PLASTIC HOUSING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68cbc94642aa86fcd552018a",
+        "itemName": "RM-PLASTIC HOUSING BIG",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68d0f5ccfe6a6345e8592bac",
+        "itemName": "RM-HEAVAN SERIES 12W  DOWN PANEL LIGHT INNER BOX",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68d0f61dfe6a6345e8592c03",
+        "itemName": "RM-HEAVAN SERIES 18W  DOWN PANEL LIGHT INNER BOX",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68d643da5cbe005c9cdc29cd",
+        "itemName": "SSF-200W AMBER  OUR NEW FREEDOM SERIES FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68e5ebf157c2891dcc1b909a",
+        "itemName": "SABIC PC NATURAL 1003-R",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "68e8cc3b57c2891dcc201674",
+        "itemName": "RM-1743 PCB OLS",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6904730337bf3d7eb02046ed",
+        "itemName": "SF-OLS-1867 100W RED 1MM 25uM SIZE: 234MM*113MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690473557d345f71e68ffe4d",
+        "itemName": "SSF- FREEDOM SERIES 100W RED LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690ed536247ceda0e5b86888",
+        "itemName": "RM- DOB 50W FREEDOM SERIES HOUSING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690ed54a247ceda0e5b868ce",
+        "itemName": "RM- DOB 100W FREEDOM SERIES HOUSING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690ed5614ffada1e1c559171",
+        "itemName": "RM- DOB 200W FREEDOM SERIES HOUSING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690f04d74ffada1e1c55c347",
+        "itemName": "RIGID FLEX PCB -GRS",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690f05114ffada1e1c55c373",
+        "itemName": "RAW CONNECTOR WIRE (PARTS FOR MAKING LED SPOT LIGHT)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690f0d54247ceda0e5b8afb7",
+        "itemName": "DECORATIVE WALL ART",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690f18bc4ffada1e1c55e634",
+        "itemName": "LENSE (PART FOR MAKING FLOOD LIGHT)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690f1ae9247ceda0e5b8c3e4",
+        "itemName": "LED STREEP LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690f1c00247ceda0e5b8c62b",
+        "itemName": "STAND FOR HOLDING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690f38ec848129ad898e586f",
+        "itemName": "SSF- FREEDOM SERIES 150W GREEN LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "690f3935848129ad898e5979",
+        "itemName": "SSF- FREEDOM SERIES 150W AMBER LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "69102a608bf565421ad9ec3b",
+        "itemName": "SF-OLS-1867 100W PINK 1MM 25uM SIZE: 234MM*113MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "69102aa5c9a3a5704413bd26",
+        "itemName": "SSF- FREEDOM SERIES 100W PINK LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "691417a983c0e27230dd05d5",
+        "itemName": "SSF- FREEDOM SERIES 100W AMBER LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "69157445d316fb04427d3aaa",
+        "itemName": "RM-MOSCO STREET 24W HOUSING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6915745ad316fb04427d3b9e",
+        "itemName": "RM-MOSCO STREET 100W HOUSING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692199ea0a2797c7c60a959e",
+        "itemName": "SF-OLS-1869 50W BLUE 1MM 25uM SIZE: 163MM*80MM LED PCB",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "69219a3a0a2797c7c60a9a08",
+        "itemName": "SSF-FREEDOM SERIES 50W BLUE LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "6927d71346606f4d724eb5fe",
+        "itemName": "SW-DOB COMMON 200W INNER BOX (TOP ULTIMA PAPER WITH UV INSIDE KHAKHI PAPER)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692934650900f28214391ebb",
+        "itemName": "PLANT AND MACHINERY",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692937bd1de93efc65285231",
+        "itemName": "PRO&FIX EPOXY FLOORING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692937e81de93efc652855d4",
+        "itemName": "PRO&FIX EPOXY COVING",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "69293d2baa9485ac3c052d80",
+        "itemName": "PLANT AND MACHINERY EXPENSS",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "69294c91aa9485ac3c05f5d3",
+        "itemName": "LED PCB SAMPLE",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692a741085fb168b726f040d",
+        "itemName": "10 KV SPD",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692a7d4d85fb168b726f335e",
+        "itemName": "RM UNIQUE MODEL 50W",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692a7d6485fb168b726f34dd",
+        "itemName": "RM UNIQUE MODEL 100W",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692a7e5985fb168b726f3b10",
+        "itemName": "RM UNIQUE MODEL 200W",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692a7f3962949b31c223c8ec",
+        "itemName": "STREEP LIGHT REEL",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692a836485fb168b726f653c",
+        "itemName": "SW-TE 50W ULTRA LUME SERIES INNER BOX (TOP ULTIMA PAPER WITH UV INSIDE KHAKHI PAPER)",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d2e2085fb168b7273c069",
+        "itemName": "SF- FREEDOM SERIES 50W DOB HOUSING KIT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d2eb685fb168b7273c1aa",
+        "itemName": "SF- FREEDOM SERIES 100W DOB HOUSING KIT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d2f1a85fb168b7273c2d7",
+        "itemName": "SF- FREEDOM SERIES 200W DOB HOUSING KIT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d316b85fb168b7273cded",
+        "itemName": "SW-3 CORE DOB 300mm BLACK WIRE CHAINA 1 METER",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d31f285fb168b7273d05e",
+        "itemName": "SW-50W DOB PC LANCE SIZE:190MM*132MM WEIGHT:80GM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d322b85fb168b7273d39a",
+        "itemName": "SW-100W DOB PC LANCE SIZE:263MM*173MM WEIGHT:150GM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d325f85fb168b7273d5b9",
+        "itemName": "SW-200W DOB PC LANCE SIZE:327MM*224MM WEIGHT:250GM",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d32bc62949b31c22898e8",
+        "itemName": "SW-50W DOB GASKET",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d32d762949b31c2289aaf",
+        "itemName": "SW-100W DOB GASKET",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692d333b85fb168b7273e6f3",
+        "itemName": "SW-200W DOB GASKET",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "67820d444d677e00038d732d",
+        "itemId": "692e83dba30141cb1a200219",
+        "itemName": "SSF- FREEDOM SERIES 100W BLUE LED FLOOD LIGHT",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      }
+    ],
+    "67820dc1eeed210003806393": [
+      {
+        "companyId": "67820dc1eeed210003806393",
+        "itemId": "6809c9199d473b80aa814f35",
+        "itemName": "FREIGHT CHARGES",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      }
+    ],
+    "6836dc3df550bf7dae8cd010": [
+      {
+        "companyId": "6836dc3df550bf7dae8cd010",
+        "itemId": "68677ae087637c1397a4adf1",
+        "itemName": "Item Name",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "6836dc3df550bf7dae8cd010",
+        "itemId": "6904bdde4149f78bfb9b01e9",
+        "itemName": "qty stock remove test",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      }
+    ],
+    "687b91fc8460b8b86179a04e": [
+      {
+        "companyId": "687b91fc8460b8b86179a04e",
+        "itemId": "688308844b49182f33701d93",
+        "itemName": "SF- 230mm Spool ( Grey )",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "687b91fc8460b8b86179a04e",
+        "itemId": "688308f84b49182f33701e1c",
+        "itemName": "RM-White Nylon Thread ( Dori )",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "687b91fc8460b8b86179a04e",
+        "itemId": "688309ea4b49182f33701f8b",
+        "itemName": "SF-PP Spool Grey Disc-230mm",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "687b91fc8460b8b86179a04e",
+        "itemId": "68830a693adbd30e03014621",
+        "itemName": "RM-Staple Pin 8mm",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      },
+      {
+        "companyId": "687b91fc8460b8b86179a04e",
+        "itemId": "6895e5587fecd15a23f76fc2",
+        "itemName": "SF- 230mm*180mm Spool ( Grey )",
+        "itemCode": "N/A",
+        "defaultPrice": 0
+      }
+    ]
+  }
+}
